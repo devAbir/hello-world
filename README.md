@@ -1,5 +1,6 @@
 # hello-world
 Its a first testing Git
+FeatureAdded
 <html>
   <head>
   </head>
@@ -8,3 +9,5 @@ Its a first testing Git
       <h2>First Git h2!</h2>
   </body>
 </html>
+
+master
